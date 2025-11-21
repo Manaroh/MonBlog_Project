@@ -1,10 +1,11 @@
 <!doctype html>
 <html lang="fr">
 <head>
-<meta charset="UTF-8" />
-<link rel="stylesheet" href="style.css" />
-<title><?= $titre ?></title> <!-- Élément spécifique -->
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="style.css?v=2" />
+    <title><?= $titre ?></title>
 </head>
+
 <body>
 <div id="global">
 <header>
